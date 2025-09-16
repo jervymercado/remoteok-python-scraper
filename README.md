@@ -18,3 +18,11 @@ You can install the required libraries with:
 
 ```bash
 pip install requests pandas
+
+## Screenshots
+
+### Script Running
+![Remote Scraper Output](remoteok_scraper_output.png)
+
+### CSV File with Results
+![RemoteOK CSV Output](remoteok_csv_output.png)
